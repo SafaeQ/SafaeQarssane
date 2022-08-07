@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://github.com/SafaeQ"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
     <a href="https://www.linkedin.com/in/safaeqarssane"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
-    <a href="mailto:qarssane.safae@gmail.com"><img src="https://img.shields.io/badge/abdelazizbardich@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:qarssane.safae@gmail.com"><img src="https://img.shields.io/badge/qarssane.safae@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr>
 
