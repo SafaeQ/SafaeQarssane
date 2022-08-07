@@ -2,7 +2,7 @@
 <h1 align='center'> Hi there 👋, I'm Safae Qarssane 👨‍💻</h1>
 
 <p align='center'>
-  ✅✅ I live 🏠 in <b>Youssoufia, Morocco📍</b>  and studies at <b><a href="https://youcode.ma">YouCode School 🏫</a></b> as a <b>MERN Stack Developer <b> ✅✅
+  ✅✅ I am full stack developer JavaScript looking to solve real world problems. I have a passion to learning and sharing my knowledge with others.
 
   <h4 align='center'>📇📇 Contact me 📇📇</h4>
 </p>
@@ -35,19 +35,5 @@
 
 <hr>
 
-
-<br>
-<p align="right">
-  <a href="https://www.spotify.com">
-    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://www.epicgames.com/site/en-US/home">
-    <img src="https://img.shields.io/badge/epicgames-%23000000.svg?&style=for-the-badge&logo=epicgames&logoColor=white" />
-  </a>
-  <a href="https://www.riotgames.com/en">
-    <img src="https://img.shields.io/badge/riotgames-darkred?&style=for-the-badge&logo=riotgames&logoColor=white" />
-  </a>
-  <h5 align="right">🎮 To have fun and spend time...😊😊😊</h5>
-</p>
 
 </center>
